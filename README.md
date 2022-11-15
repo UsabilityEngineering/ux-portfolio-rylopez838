@@ -10,4 +10,4 @@ Hello class my name is Rodrigo Lopez. Welcome to my UX portfolio! In here you wi
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Experiencing with Hyundai Elantra 2019 Car Lock](j01/)
