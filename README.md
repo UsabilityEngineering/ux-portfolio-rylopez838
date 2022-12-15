@@ -11,7 +11,7 @@ Hello class my name is Rodrigo Lopez. Welcome to my UX portfolio! In here you wi
 ## UX Journal
 
 
-[Experiencing with Hyundai Elantra 2019 Car Lock](j01/)
+[Experiencing with Bash](j01/)
 
 [Experiencing With Hyundai Elantra 2019 Car Lock](j02/)
 
